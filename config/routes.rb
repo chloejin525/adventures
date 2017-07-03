@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'welcome/home'
+  get 'ilovecode' => 'welcome#home'
 
   get 'welcome/contact'
 
