@@ -1,24 +1,6 @@
-# README
+# TTS Homework
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create a brand new rails apps called "adventures"
+* Scaffold 2 resources (tables) with 3 attributes each:
+	* State (name, capital, population)
+	* Activity (name, cost, duration)
